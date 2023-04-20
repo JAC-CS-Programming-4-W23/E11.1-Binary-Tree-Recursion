@@ -2,7 +2,7 @@
 
 ## 🎯 Objectives
 
-- **Implement** various functions recursively in Java.
+- **Implement** binary tree functions recursively in Java.
 
 ## 🔨 Setup
 
